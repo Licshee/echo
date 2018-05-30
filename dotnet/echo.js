@@ -1,3 +1,5 @@
-class self{
-	static function echo(s){print(s)}
+function echo(s){
+	print(s);
 }
+
+echo(echo);
