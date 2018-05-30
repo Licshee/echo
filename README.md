@@ -21,7 +21,7 @@ Until the day I learned about how ```import``` works in ECMAScript 6.
 
 It's how the idea sparked.
 
-If there isn't a standard ```echo```, why don't not define it ourself?
+If there isn't a standard ```echo```, why not just define it ourself?
 
 So with a "standardized" ```echo```, I don't have to write one manually every time I need one!
 
