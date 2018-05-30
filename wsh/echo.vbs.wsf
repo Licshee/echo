@@ -1,8 +1,0 @@
-<job>
-<script language="VBScript">
-Sub Echo(s)
-	WSH.Echo(s)
-End Sub
-</script>
-<script language="JScript">echo(typeof echo)</script>
-</job>
