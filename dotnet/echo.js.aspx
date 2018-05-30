@@ -1,0 +1,1 @@
+<%function echo(s){Response.Write(s)}%>

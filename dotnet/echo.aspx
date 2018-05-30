@@ -1,5 +1,3 @@
 <%@Language="JScript"%>
-<%
-function echo(s){Response.Write(s)}
-%>
+<!-- #include virtual="echo.js.aspx" -->
 <%echo(typeof echo)%>
