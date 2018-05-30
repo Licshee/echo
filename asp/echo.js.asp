@@ -1,2 +1,1 @@
-<!-- #include virtual="echo.js/echo.asp" -->
-<script runat="server" language="JScript">echo(echo)</script>
+<script runat="server" language="JScript">function echo(s){Response.Write(s)}</script>
