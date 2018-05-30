@@ -25,10 +25,10 @@ If there isn't a standard ```echo```, why not just define it ourself?
 
 So with a "standardized" ```echo```, I don't have to write one manually every time I need one!
 
-**And this is the very beginning of *echo.js***.
+**And this is the very beginning of *echo.js*.**
 
 *In case you don't know or don't understand yet:*
 
-*Initially ```import``` was defined in ECMAScript 4, but have been dropped in ECMAScript 5, because there is basically no way to make it work in the way web developers expected due to how web browsers locate and load script files for HTML(web pages) is significantly different from other platforms, in which ECMAScript 4 was initially thought would suit for given its general-purposed nature.*
+*Initially ```import``` was defined in ECMAScript 4, but have been dropped in ECMAScript 5, because there is basically no way to make it work in the way average developers would expect due to how web browsers locate and load script files for HTML(web pages) is significantly different from other platforms, in which ECMAScript 4 was initially thought would suit for given its general-purposed nature.*
 
 *That's why ECMAScript 6 doesn't say much about how ```import``` should work and leave to implementations -- in case of HTML(web pages), it's a responsibility for W3C/WHATWG.*
