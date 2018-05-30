@@ -13,13 +13,13 @@ And as hinted by the comment, I will also provide some reference implementations
 
 Since the day I wrote my very first line of JavaScript code back in 2003, I always dream of having a universal ```echo``` function being implemented in every single JavaScript-running environment, or some kind of interfaces like that.
 
-So when I write some JavaScript code might be portable between JavaScript executing environments/implementations/platforms I don't need to replace all the ```alert```s to ```WSH.Echo```s, or vice versa.
+So when I write JavaScript code might be portable between JavaScript executing environments/implementations/platforms I don't need to replace all the ```alert```s to ```WSH.Echo```s, or vice versa.
 
 But that dream never came true.
 
 Until the day I learned about how ```import``` works in ECMAScript 6.
 
-It's how the idea sparked.
+That's where the inspiration kicks in.
 
 If there isn't a standard ```echo```, why not just define it ourself?
 
